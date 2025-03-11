@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: quantumlib
+Version: 0.1.0
+Summary: A modular quantum computing library for AerSimulator and IBM Quantum backends
+Author: Faruk Alpay
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: qiskit>=0.42.0
+Requires-Dist: qiskit-aer>=0.16.0
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: scipy>=1.5.0
+Requires-Dist: matplotlib>=3.2
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
