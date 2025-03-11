@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 benchmarks/__init__.py
 benchmarks/benchmark_backends.py
